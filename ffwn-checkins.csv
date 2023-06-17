@@ -1,22 +1,22 @@
 date,callsign,firstname,city,state-province-locale,country,mastodon-username,vhf-hf-aprs-telnet,open-question
 6/16/2023,N8MOR, Nate, Livermore, California, USA, @rebootkid@infosec.exchange, HF, Debian/PiOS
-KC0BLK, Ben, Kansas City, MO, US benjaminkelley@defcon.social, telnet, Windows 10 for current checkin but have used PAT on Linux and MAC also
-NC6J, Jeff, Rancho Cordova, CA, USA, NC6J, VHF, Linux
-N4EJM, John, Winnabow, NC, USA, n4ejm@mastodon.radio, Telnet, RadioMail for iOS
-F4IKH, Claude, Puy-Guillaume, Auvergne, France, @F4IKH, , Linux Debian 11. Pat software or Airmail with wine
-KC8JC, J.C., Kent, Ohio, USA, @KC8JC@Mastodon.radio, HF, Ubuntu GNU/Linux
-KC2IHX, Evan, Walla Walla, WA, USA, @kc2ihx@mastodon.hams.social, VHF, Windows 11 but would like to try PAT some day
-KE8TDE, Benjamin, Columbus, OH, USA, @blbecker@universeodon.com, Telnet, I'm running a Winlink station (PAT) in Kubernetes
-YO3JAZ, Costin, Bucharest, B, Romania, @yo3jaz@mastodon.radio, Telnet, Windows 7 ThinPC
-M0RVB,Jeremy,Leeds,West Yorkshire,UK,@M0RVB,HF, Windows 10
-N7NWT, Nathan, Tacoma, WA, USA, @N7NWT@mastodon.hams.social, VHF, Windows 10 (Have a Linux Pat setup but only with my handheld)
-anon, anon, XXXX, XX, US,anon, webmail, webmail from Windows 10 workstation
-K2EXE, Mark, Skaneateles NY, USA, K2EXE@hackers.radioTelnet, AREDN mesh, Android phone running WOAD
-KO4ERE, Mike, Arlington, VA, USA @KO4ERE@MASTODON.RADIO, telnet, WoAD Android
-W0AMT,JONATHAN,ALBUQUERQUE,NEW MEXICO,UNITED STATES,@W0AMT@MASTODON.RADIO,VHF, WINDOWS 10
-N3PZM, Matt, Cambridge, MD, USA, @N3PZM@mastodon.hams.social, Telnet, Mostly Windows occasionally iOS Android or Ubuntu
-VA7DPO, Darryl, Vancouver, BC, Canada, @dpogue@mastodon.social, VHF, Linux (WinLink Express in wine)
-AI6YR,Ben,Newbury Park,CA,USA,@ai6yr@mastodon.radio,HF, Windows 10
-AE4WX, Mark, West End, NC, United States, @ae4wx, HF ARDOP, Operating systems: Windows 10 and Xubuntu 22.04 in a virtual machine
-N0MQL,Kelvin,Centerville,MN,US,kelvin0mql,VHF, iOS (hoping to get HF&VHF working on Linux someday, but it's a TON harder than it SHOULD be)
+6/16/2023,KC0BLK, Ben, Kansas City, MO, US benjaminkelley@defcon.social, telnet, Windows 10 for current checkin but have used PAT on Linux and MAC also
+6/16/2023,NC6J, Jeff, Rancho Cordova, CA, USA, NC6J, VHF, Linux
+6/16/2023,N4EJM, John, Winnabow, NC, USA, n4ejm@mastodon.radio, Telnet, RadioMail for iOS
+6/16/2023,F4IKH, Claude, Puy-Guillaume, Auvergne, France, @F4IKH, , Linux Debian 11. Pat software or Airmail with wine
+6/16/2023,KC8JC, J.C., Kent, Ohio, USA, @KC8JC@Mastodon.radio, HF, Ubuntu GNU/Linux
+6/16/2023,KC2IHX, Evan, Walla Walla, WA, USA, @kc2ihx@mastodon.hams.social, VHF, Windows 11 but would like to try PAT some day
+6/16/2023,KE8TDE, Benjamin, Columbus, OH, USA, @blbecker@universeodon.com, Telnet, I'm running a Winlink station (PAT) in Kubernetes
+6/16/2023,YO3JAZ, Costin, Bucharest, B, Romania, @yo3jaz@mastodon.radio, Telnet, Windows 7 ThinPC
+6/16/2023,M0RVB,Jeremy,Leeds,West Yorkshire,UK,@M0RVB,HF, Windows 10
+6/16/2023,N7NWT, Nathan, Tacoma, WA, USA, @N7NWT@mastodon.hams.social, VHF, Windows 10 (Have a Linux Pat setup but only with my handheld)
+6/16/2023,anon, anon, XXXX, XX, US,anon, webmail, webmail from Windows 10 workstation
+6/16/2023,K2EXE, Mark, Skaneateles NY, USA, K2EXE@hackers.radioTelnet, AREDN mesh, Android phone running WOAD
+6/16/2023,KO4ERE, Mike, Arlington, VA, USA @KO4ERE@MASTODON.RADIO, telnet, WoAD Android
+6/16/2023,W0AMT,JONATHAN,ALBUQUERQUE,NEW MEXICO,UNITED STATES,@W0AMT@MASTODON.RADIO,VHF, WINDOWS 10
+6/16/2023,N3PZM, Matt, Cambridge, MD, USA, @N3PZM@mastodon.hams.social, Telnet, Mostly Windows occasionally iOS Android or Ubuntu
+6/16/2023,VA7DPO, Darryl, Vancouver, BC, Canada, @dpogue@mastodon.social, VHF, Linux (WinLink Express in wine)
+6/16/2023,AI6YR,Ben,Newbury Park,CA,USA,@ai6yr@mastodon.radio,HF, Windows 10
+6/16/2023,AE4WX, Mark, West End, NC, United States, @ae4wx, HF ARDOP, Operating systems: Windows 10 and Xubuntu 22.04 in a virtual machine
+6/16/2023,N0MQL,Kelvin,Centerville,MN,US,kelvin0mql,VHF, iOS (hoping to get HF&VHF working on Linux someday, but it's a TON harder than it SHOULD be)
 
