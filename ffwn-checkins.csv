@@ -1,6 +1,6 @@
 date,callsign,firstname,city,state-province-locale,country,mastodon-username,vhf-hf-aprs-telnet,open-question
 6/16/2023,N8MOR, Nate, Livermore, California, USA, @rebootkid@infosec.exchange, HF, Debian/PiOS
-6/16/2023,KC0BLK, Ben, Kansas City, MO, US benjaminkelley@defcon.social, telnet, Windows 10 for current checkin but have used PAT on Linux and MAC also
+6/16/2023,KC0BLK, Ben, Kansas City, MO, US, benjaminkelley@defcon.social, telnet, Windows 10 for current checkin but have used PAT on Linux and MAC also
 6/16/2023,NC6J, Jeff, Rancho Cordova, CA, USA, NC6J, VHF, Linux
 6/16/2023,N4EJM, John, Winnabow, NC, USA, n4ejm@mastodon.radio, Telnet, RadioMail for iOS
 6/16/2023,F4IKH, Claude, Puy-Guillaume, Auvergne, France, @F4IKH, , Linux Debian 11. Pat software or Airmail with wine
@@ -11,8 +11,8 @@ date,callsign,firstname,city,state-province-locale,country,mastodon-username,vhf
 6/16/2023,M0RVB,Jeremy,Leeds,West Yorkshire,UK,@M0RVB,HF, Windows 10
 6/16/2023,N7NWT, Nathan, Tacoma, WA, USA, @N7NWT@mastodon.hams.social, VHF, Windows 10 (Have a Linux Pat setup but only with my handheld)
 6/16/2023,anon, anon, XXXX, XX, US,anon, webmail, webmail from Windows 10 workstation
-6/16/2023,K2EXE, Mark, Skaneateles NY, USA, K2EXE@hackers.radioTelnet, AREDN mesh, Android phone running WOAD
-6/16/2023,KO4ERE, Mike, Arlington, VA, USA @KO4ERE@MASTODON.RADIO, telnet, WoAD Android
+6/16/2023,K2EXE, Mark, Skaneateles NY, USA, K2EXE@hackers.radio, Telnet, AREDN mesh, Android phone running WOAD
+6/16/2023,KO4ERE, Mike, Arlington, VA, USA, @KO4ERE@MASTODON.RADIO, telnet, WoAD Android
 6/16/2023,W0AMT,JONATHAN,ALBUQUERQUE,NEW MEXICO,UNITED STATES,@W0AMT@MASTODON.RADIO,VHF, WINDOWS 10
 6/16/2023,N3PZM, Matt, Cambridge, MD, USA, @N3PZM@mastodon.hams.social, Telnet, Mostly Windows occasionally iOS Android or Ubuntu
 6/16/2023,VA7DPO, Darryl, Vancouver, BC, Canada, @dpogue@mastodon.social, VHF, Linux (WinLink Express in wine)
