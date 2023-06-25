@@ -6,7 +6,7 @@
    - It's also a great way to make sure the electrons do what you tell them.  In other words, to verify the functionality of your complete system
 2. How do I check in?
    - Watch Mastondon for #FFWN or #FediFridayWinlinkNet
-   - Use your favorite mode to connect!  Using radio to do so is encouraged, but telnet is most certainly welcome!
+   - Use your favorite mode to connect!  
 3. What's winlink?
    - https://www.winlink.org
    - From the page:
