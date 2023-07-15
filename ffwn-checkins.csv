@@ -34,3 +34,41 @@ date,callsign,firstname,city,state-province-locale,country,mastodon-username,vhf
 6/23/2023,W1CDN, Matt, East Grand Forks, MN, USA,@W1CDN@mastodon.radio, HF,Nope.
 6/23/2023,KR1ST, Alex, Jefferson TWP, PA, USA,@kr1st, HF,No
 6/23/2023,N4EJM, John, Winnabow, NC,USA,n4ejm@mastodon.radio, Telnet,"Nope, gotta work all weekend. I still haven't been able to participate in one yet. "
+7/7/2023,KO4ERE, Mike,Arlington,VA,USA,@KO4ERE@Mastodon.radio,Telnet,"FT4 actually, it does the same job as FT8, only faster. Better chance of working a rare station... assuming they can hear you."
+7/7/2023,N4EJM, John,Winnabow,NC,USA,n4ejm@mastodon.radio,TELNET,"JS8, has the robustness of FT8 but keyboard 2 keyboard. You can send SMS, email and beacon over APRSIS."
+7/7/2023,WA6L, DOUG,SACRAMENTO,CA,US,@DUG@MASTODON.RADIO,,"CW, THE OG OF DIGITAL"
+7/7/2023,R2AZE,Eugene,Moscow,Russia,Russian Federation,@R2AZE@mastodon.radio,HF,"Hellschreiber, because it's uniquely low-tech."
+7/7/2023,KC0BLK, Ben,Kansas City,MO,US ,benjaminkelley@defcon.social,Telnet,"JS8Call has been my interest lately, need more folks using it.  Otherwise FT4"
+7/7/2023,DL2SFO,Gerhard,nr Stuttgart,Bawü,Germany,@mast4sc,telnet,
+7/7/2023,F4IKH, Claude,Puy-Guillaume,Auvergne,France,@f4ikh,,Favorite digital mode pactor working in bad condition with qrp power less then 30w
+7/7/2023,KC8JC, J.C.,Kent,OH,USA,@KC8JC @ Mastodon.radio,HF,FT8 - There is more challenge and subtlety than most claim. It's FUN!
+7/7/2023,KC2IHX, Evan,Walla Walla,WA,USA,@kc2ihx@mastodon.hams.social,VHF,"I used to really enjoy ragchews on PSK31, have been gettting back into that."
+7/7/2023,KR1ST, Alex,Jefferson TWP,PA,USA,@kr1st,HF,FT8 because it's the most used weak signal mode on VHF and up.
+7/7/2023,W1CDN, Matt,East Grand Forks,MN,USA,@W1CDN@mastodon.radio,HF,"APRS, so I guess AX.25?"
+7/7/2023,N1ZZZ,Jeremy Pringle,,PA,USA,N1ZZZ,VHF VARA,"Clover, it's an old school ARQ mode that gives link statistics in real time. In 2022 they finally did it again with VarAC, which I also enjoy."
+7/7/2023,AE4WX, Mark,West End, Moore,NC,USA,,Telnet,I use a lot of digital modes.  This week while recovering from COVID I've discovered Network 105/HF Packet and I'm having a lot of fun exploring it.
+7/7/2023,N6UTC, Endaf,Long Beach,California,USA,@n6utc@mastodon.radio,Telnet,"C4FM, because of the superior audio quality and easy to use and it's not a reversed engineered commercial protocol like DMR."
+7/7/2023,KD8BXP, LeRoy,Franklin,Ohio,USA,KD8BXP,telnet,DMR
+7/7/2023,KJ7OMO, Kimberly,Yuma,Arizona,USA,@KJ7OMO@mastodon.radio,HF,"My favorite HF digital mode is JS8, because is very robust and very reliable, I can have rag chew QSOs with it even when the conditions are very rough and it's got a bunch of neat features too, such as the ability to store and forward messages, act as a repeater, and more. JS8 is a wondeful mode and I wish more people would use it."
+7/7/2023,VA7DPO, Darryl,Vancouver,BC,Canada,@dpogue@mastodon.social,Telnet,Basic packet on VHF
+7/7/2023,M1VPN, Damian,Combe Raleigh,Devon,England,@M1VPN,HF VARA,"PSK31,  A mix of keyboard and Macro responses make every QSO interesting and different, unlike the FT modes."
+7/7/2023,N9UXC, Mike,Bloomington,MN,USA,N9UXC,HF,packet radio
+7/7/2023,K2ZA,John,Franklinville,NJ,USA ,@k2za@mastodon.hams.social,Telnet,"AX.25 Packet followed closely by JS8Call. RadioMail for iOS seems broken when using a digipeater, will not process the info coming back from the digipeater so it never thinks it connects."
+7/7/2023,N8MOR,Nate,Livermore,CA,USA,@rebootkid@infosec.exchange,HF,"FT8, but trying to learn JS8Call"
+7/14/23, G5DSG, Dan, York, N Yorkshire, UK, @g5dsg@mastodon.radio, HF, A mostly completed QRP labs QDX transciever
+7/14/23, W6BI, Orv, Simi Valley, CA, USA, @orv, VHFPacket & VARA FM/VARA HF/Telnet/Mesh, Two Ubiquiti Rockets to check out; Sunba P636 PTZ cam waiting for hilltop deployment; Buckmaster OCF Dipole
+7/14/23, KO4ERE, Mike, Arlington, VA,  USA, @KO4ERE@mastodon.radio, HF, Currently on my workbench is a Tamiya 1/48 F-4B Phantom
+7/14/23, KB3SQV, Jay, Berwick, PA, US, @5@mastodon.social, VHF, On my bench right now is a Kenwood TK-8180 and a PK232MBX TNC
+7/14/23, R2AZE,Eugene,Moscow,Russia,Russian Federation,@R2AZE@mastodon.radio,HF, An ESP32CAM that will eventually send SSTV.
+7/14/23,F4IKH, Claude, Puy Guillaume, Auvergne, France, @f4ikh, Telnet, On my workbench Codan 9360 to modify to accept latest firmware, Yeasu 8500 to repair, Endfed to rebuild salt, 2 HF amplifier for a friend to check
+7/14/23, KC8JC, J.C., Kent, Ohio, USA, @KC8JC@Mastodon.Radio, HF, I've got a QMX half-built on the bench right now
+7/14/23, KR1ST, Alex, Jefferson TWP, PA, USA, @kr1st, HF, Repairing an ICF-2010 portable shortwave radio.
+7/14/23, W1CDN, Matt, East Grand Forks, MN, USA, @W1CDN@mastodon.radio, HF, TufteLn 40m EFHW antenna kit and Electro-Resales CW Audio Filter kit, but also the NanoVNA that I want to use to optimize my EFRW antenna
+7/14/23, N9DRB,Devin,Menomonie,WI,USA,@n9drb@qth.social,Telnet, Most recently a cable to connect my (tr)usdx to my DigiRig
+7/14/23, KB7RAL, Jim, Logan, Utah, USA, @jimhubbell, Telnet, Nothing special on my workbench
+7/14/23, N4EJM, John, Winnabow, NC, USA, n4ejm@mastodon.radio, TELNET,
+7/14/23, N9UXC, Mike, Minneapolis, MN, USA, N9UXC, Telnet, SDR HF kit and a nonbooting Linux box... occasionally a cat
+7/14/23, M1VPN, Damian, Combe Raleigh, Devon, England, @M1VPN, HF VARA, QRP Labs QCX+ and K3NG Rotator controller
+7/14/23, AI6YR,Ben,Newbury Park,CA,USA,@ai6yr@mastodon.radio,HF, Satellite antenna along with many other uncompleted projects
+7/14/23, VA7DPO, Darryl, Vancouver, BC, Canada, @dpogue@mastodon.social, telnet, PK-88 TNC
+7/14/23, N8MOR, Nate, Livermore, CA, USA, @rebootkid@infosec.exchange, HF, A battery pack/solar generator I had to rebuild because it went for a swim in the pool
